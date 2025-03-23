@@ -1,0 +1,10 @@
+/Users/ncarante/Development/expense-tracker/src/main/java/com/spinifexit/Main.java
+/Users/ncarante/Development/expense-tracker/src/main/java/com/spinifexit/app/App.java
+/Users/ncarante/Development/expense-tracker/src/main/java/com/spinifexit/model/Expense.java
+/Users/ncarante/Development/expense-tracker/src/main/java/com/spinifexit/processor/InputKeyboardProcesser.java
+/Users/ncarante/Development/expense-tracker/src/main/java/com/spinifexit/processor/InputProcessor.java
+/Users/ncarante/Development/expense-tracker/src/main/java/com/spinifexit/repository/ExpenseListRepository.java
+/Users/ncarante/Development/expense-tracker/src/main/java/com/spinifexit/repository/ExpenseRepository.java
+/Users/ncarante/Development/expense-tracker/src/main/java/com/spinifexit/service/ExpenseManagementService.java
+/Users/ncarante/Development/expense-tracker/src/main/java/com/spinifexit/service/FileManagementService.java
+/Users/ncarante/Development/expense-tracker/src/main/java/com/spinifexit/service/PerformanceManagementService.java
